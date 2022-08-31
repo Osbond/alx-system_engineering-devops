@@ -8,3 +8,4 @@
 8-firstdelete is used to delete betty file in its path
 9-firstdirdeletion is used to delete my_first_directory that is in the /tmp directorye
 10-back is used to take you to the parent directoryof the current directory
+11-lists is used to list all files in current, parent and boot directory
