@@ -6,4 +6,5 @@
 6-firstdirectory creates a directory named my_first_directory in the tmp directory, This is done after the file was created with the script
 7-movethatfile is used to move the file etty from tmp to tmp/my_first_directory
 8-firstdelete is used to delete betty file in its path
-9-firstdirdeletion is used to delete my_first_directory that is in the /tmp directory
+9-firstdirdeletion is used to delete my_first_directory that is in the /tmp directorye
+10-back is used to take you to the parent directoryof the current directory
