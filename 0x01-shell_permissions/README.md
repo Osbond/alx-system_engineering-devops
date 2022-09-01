@@ -1,0 +1,13 @@
+0-iam_betty: This is a script used to change user to betty.
+1-who_am_i: This is used to determine current user.
+2-groups: This is used to determine the groups the current user is involved in.
+3-new_owner: This is used to change the file hello owner to betty.
+4-empty: This is used to create a new file called touch.
+6-multiple_permissions: Adds the execute permission to the owner and group owner.
+7-everybody: This just grants execute permission to the owner,group,other user.
+8-James_Bond: This grants other users all the permissions without any permission for owner and group.
+10-mirror_permissions: This mirrors the permission of olleh to hello file.
+12-directory_permissions: This creates a folder my_dir with preset permission.
+13-change_group: This changes the group of hello file to school.
+100-change_owner_and_group: This changes the owner and the group owner of all files and directories in the working directory.
+101-symbolic_link_permissions: This is to change the owner and group owner of a symbolic link
